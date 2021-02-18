@@ -32,7 +32,7 @@ const client = new Zuwinda('Your token');
     } catch (error) {
        console.log(error);
     }
-});
+})();
 ```
 
 
