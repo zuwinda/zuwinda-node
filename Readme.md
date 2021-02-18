@@ -24,7 +24,7 @@ const client = new Zuwinda('Your token');
 
 (async() => {
  try {
-       let response = await zuwinda.sms.send({
+       let response = await client.sms.send({
            to: '08151xxxxx',
            content: 'Hello world!!'
        });
