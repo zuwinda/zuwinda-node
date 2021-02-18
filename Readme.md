@@ -37,4 +37,4 @@ const client = new Zuwinda('Your token');
 
 
 [apidocs]: https://docs.zuwinda.com
-[codeexamples]: https://github.com/zuwinda/zuwinda-node/examples
+[codeexamples]: https://github.com/zuwinda/zuwinda-node/tree/master/examples
