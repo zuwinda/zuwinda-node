@@ -1,6 +1,6 @@
 {
   "name": "zuwinda",
-  "version": "1.0.0",
+  "version": "1.0.0-beta0",
   "description": "A Node.js SDK to make send SMS, Whatsapp, and other services into your Node.js applications using the Zuwinda REST API",
   "main": "index.js",
   "scripts": {
